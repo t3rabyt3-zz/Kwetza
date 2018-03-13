@@ -1,0 +1,2 @@
+# kwetza
+Kwetza is a tool that allows you to infect an existing Android application with a Meterpreter payload.  Kwetza infects an existing Android application with either custom or default payload templates to avoid detection by antivirus. Kwetza allows you to infect Android applications using the target application's default permissions or inject additional permissions to gain additional functionality.
