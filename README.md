@@ -90,3 +90,8 @@ The password for the default keystore is, well, "password".
 
 Kwetza is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0).
 
+
+
+
+
+Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://www.linkedin.com/in/coderpandit>Coder Pandit</a>
